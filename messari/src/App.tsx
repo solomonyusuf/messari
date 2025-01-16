@@ -2,7 +2,6 @@
 import React, { useEffect, useRef, memo } from 'react';
 
 function App() {
-  const [count, setCount] = useState(0);
     const sliderTapeView = useRef(null);
     const symbolView = useRef(null);
     const chartView = useRef(null);
