@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|c:\\users\\solomon\\documents\\programming projects\\web dev\\messari\\messari\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|solutionrelative:messari\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|c:\\users\\solomon\\documents\\programming projects\\web dev\\messari\\messari\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|solutionrelative:messari\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|c:\\users\\solomon\\documents\\programming projects\\web dev\\messari\\messari\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|solutionrelative:messari\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|c:\\users\\solomon\\documents\\programming projects\\web dev\\messari\\messari\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2259C136-AED5-4D9D-A535-5AD2DC13CE3C}|messari\\messari.esproj|solutionrelative:messari\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\index.html",
+              "RelativeDocumentMoniker": "messari\\index.html",
+              "ToolTip": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\index.html",
+              "RelativeToolTip": "messari\\index.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-15T20:56:39.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\src\\main.tsx",
+              "RelativeDocumentMoniker": "messari\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\src\\main.tsx",
+              "RelativeToolTip": "messari\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-15T20:42:34.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\package.json",
+              "RelativeDocumentMoniker": "messari\\package.json",
+              "ToolTip": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\package.json",
+              "RelativeToolTip": "messari\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T20:39:11.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\src\\App.tsx",
+              "RelativeDocumentMoniker": "messari\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Solomon\\Documents\\PROGRAMMING PROJECTS\\WEB DEV\\messari\\messari\\src\\App.tsx",
+              "RelativeToolTip": "messari\\src\\App.tsx",
+              "ViewState": "AgIAAJgGAAAAAAAAAAA3wKoGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-15T20:29:47.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
